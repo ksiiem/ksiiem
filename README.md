@@ -1,5 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-Flanesue 👣
+<div align="center">
+  <h2>Flanesue 👣</h2>
+  <a href="https://www.notion.so/Flaneuse-2d5ac550cc534edda4f0346c86c405bd?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-[컬러 코드]?style=flat&logo=Notion&&logoColor=white"/></a>
+</div>
+
+
 <!--
 **esseikim/esseikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
