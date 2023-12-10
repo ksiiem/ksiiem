@@ -2,8 +2,11 @@
   <h3>Flanesue 👣</h3>
   <a href="https://www.notion.so/Flaneuse-2d5ac550cc534edda4f0346c86c405bd?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&&logoColor=white"/></a>
   <a href="https://esseikim.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubBlog-181717?style=flat&logo=GitHub&&logoColor=white"/></a>
+  <a href=mailto:wjdgkalsh@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdgkalsh@gmail.com"></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fesseikim%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 </div>
 
+#
 
 <!--
 **esseikim/esseikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +24,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 
-  <h4> TECT STACK </h4>
+  <h4> [ TECT STACK ] </h4>
 
   <h5>FRONT-END</h5>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -60,6 +63,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   
   <br>
-  
+
+  #
+  <br>
+  <div align="center">
+	  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ksiiem">
+  </div>
 </div>
 
