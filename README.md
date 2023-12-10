@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Flanesue 👣</h2>
+  <h3>Flanesue 👣</h3>
   <a href="https://www.notion.so/Flaneuse-2d5ac550cc534edda4f0346c86c405bd?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&&logoColor=white"/></a>
   <a href="https://esseikim.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubBlog-181717?style=flat&logo=GitHub&&logoColor=white"/></a>
 </div>
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 
-  <h3> TECT STACK </h3>
+  <h4> TECT STACK </h4>
 
-  <h4>FRONT-END</h4>
+  <h5>FRONT-END</h5>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   
   <br>
 
-  <h4>BACK-END</h4>
+  <h5>BACK-END</h5>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   
   <br>
   
-  <h4>TOOLS</h4>
+  <h5>TOOLS</h5>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
