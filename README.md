@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Flanesue 👣</h3>
+  <h3>Flaneuse 👣</h3>
   <a href="https://www.notion.so/Flaneuse-2d5ac550cc534edda4f0346c86c405bd?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&&logoColor=white"/></a>
   <a href="https://esseikim.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubBlog-181717?style=flat&logo=GitHub&&logoColor=white"/></a>
   <a href=mailto:wjdgkalsh@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdgkalsh@gmail.com"></a>
