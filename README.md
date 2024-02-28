@@ -68,7 +68,11 @@ Here are some ideas to get you started:
   <br>
 
   #
-  <br>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esseikim&layout=compact" />
+  </div>
+  
+  #
   <div align="center">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ksiiem">
   </div>
